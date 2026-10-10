@@ -2,13 +2,15 @@
   <img src="assets/header.svg" width="100%" alt="Vojtěch Šebek — business analytik, projektový manažer a builder. SEBIT Solutions, Mělník.">
 </a>
 
-<br>
+&nbsp;
 
-Pracuji na pomezí byznysu a technologie. V **bankovním IT** dělám business analýzu a řídím projekty, ve své firmě **[SEBIT Solutions](https://sebit.cz)** stavíme software, datové platformy a AI automatizace pro firmy, kterým záleží na tom, aby čísla seděla.
+**Z nejasného zadání dělám systémy, které lidé opravdu používají.**
 
-Nejvíc mě baví chvíle, kdy se z nejasného požadavku stane systém, který lidé opravdu používají – a který spočítá správnou veličinu, ne jen správně napsaný kód.
+**Teď** &nbsp;·&nbsp; business analýza a řízení projektů v bankovním IT<br>
+**Moje firma** &nbsp;·&nbsp; [SEBIT Solutions](https://sebit.cz) – IT consulting, vývoj na míru, data a AI<br>
+**Ozvěte se** &nbsp;·&nbsp; [info@sebit.cz](mailto:info@sebit.cz)
 
-<br>
+&nbsp;
 
 ### Co dělám
 
