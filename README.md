@@ -54,13 +54,6 @@ Jednoduché a profesionální řešení Vašich kapacitních problémů s vývoj
   <a href="https://sebit.cz"><img src="assets/cta.svg" height="60" alt="Kontaktujte nás"></a>
 </p>
 
-<br>
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/VolPark/VolPark/output/snake-dark.svg">
-  <img src="https://raw.githubusercontent.com/VolPark/VolPark/output/snake.svg" width="100%" alt="Aktivita na GitHubu">
-</picture>
-
 <br><br>
 
 <a href="mailto:info@sebit.cz"><img src="assets/footer.svg" width="100%" alt="Rádi Vám pomůžeme! info@sebit.cz · sebit.cz"></a>
